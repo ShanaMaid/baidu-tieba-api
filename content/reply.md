@@ -31,7 +31,7 @@ tbs
 ```
 
 
-
+以上提到的字段信息都可以通过Http-header抓取，除了需要更新的mouse_pwd_t,mouse_pwd,content,tbs每次回复需要更新的，其余字段信息可以直接复制formdata里面的
 ![Formdata](https://github.com/ShanaMaid/baidu-tieba-api/raw/master/content/reply.png)
 
 
