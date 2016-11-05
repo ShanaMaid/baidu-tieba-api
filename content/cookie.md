@@ -1,12 +1,12 @@
 #cookie
 
-You should bring your cookie when you visiti baidu!
+在访问百度的时候应该带上登录状态的cookie
 
-You can get cookie in http-header!
+你可以在http-header中找到你的cookie
  
 
 
-cookie with the following field:
+cookie应该带有以下字段
 
 ```
  BAIDUID 
@@ -18,9 +18,9 @@ cookie with the following field:
  wise_device
 ```
 
- As the picture shows:
- get cookie!
- 
+如下图所示：
+获取cookie
+
  chrome -> F12 -> network -> type = xhr
 
  ![cookie](https://github.com/ShanaMaid/baidu-tieba-api/raw/master/content/cookie.png)

@@ -11,7 +11,7 @@
 	__type__=reply;
 	mouse_pwd_isclick=0;
 	vcode_md5=;
-	kw=剑王3; //贴吧名字  eg: 剑网3
+	kw=剑网3; //贴吧名字  eg: 剑网3
 	fid=1185508; //贴吧编号 
 	tid=4848846889; //帖子id,  eg：http://tieba.baidu.com/p/4848846889   => 4848846889
 	rich_text=1;
@@ -39,8 +39,8 @@ tbs
 ### return
 		
 		eg:
-		```
+		
 		{"no":0,"err_code":0,"error":null,"data":{"autoMsg":"","fid":1185508,"fname":"\u5251\u7f513","tid":4847399087,"is_login":1,"content":"\u6211\u5c31\u662f\u4e00\u4e2a\u673a\u5668\u4eba\u800c\u5df2","access_state":null,"vcode":{"need_vcode":0,"str_reason":"","captcha_vcode_str":"","captcha_code_type":0,"userstatevcode":0},"mute_text":null}}
-		```
+		
 		如果"no":0,"err_code":0,发帖成功！
 	
